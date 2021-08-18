@@ -1,0 +1,16 @@
+PODS:
+  - NendSDK_iOS (7.0.0)
+
+DEPENDENCIES:
+  - NendSDK_iOS
+
+SPEC REPOS:
+  trunk:
+    - NendSDK_iOS
+
+SPEC CHECKSUMS:
+  NendSDK_iOS: 5f4d2574d19aece3ebf8ef1833ece0c4af48da23
+
+PODFILE CHECKSUM: 161eaeee7e4296aef7ca943ffb0e335f8e3d8909
+
+COCOAPODS: 1.9.3
